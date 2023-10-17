@@ -1,0 +1,30 @@
+
+.h1-stylesheet1{
+    color: blue;
+}
+
+.h1-stylesheet2{
+    color: rgb(164, 3, 3);
+}
+
+.h2-stylesheet1 {
+    color: rgb(0, 128, 255);
+}
+
+.ul-stylesheet1 {
+    color:rgb(133, 8, 8);
+}
+
+.div-stylesheet1{
+    background-color: rgba(0, 166, 255, 0.979);
+    width: fit-content;
+}
+
+.div-stylesheet2{
+    background-color: bisque;
+}
+
+.ul-stylesheet2 {
+    background-color: bisque;
+    width:fit-content;
+}
